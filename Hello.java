@@ -6,7 +6,5 @@ public class Hello {
         int b = 2;
         System.out.print(a + b);
 
-        System.out.print(a * b);
-
     }
 }
