@@ -4,7 +4,7 @@ public class Hello {
 
         int a = 200;
         int b = 2;
-        System.out.print(a * b);
+        System.out.print(a / b);
 
     }
 }
